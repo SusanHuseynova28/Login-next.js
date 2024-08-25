@@ -1,7 +1,7 @@
 "use client";
 
 import { useRequestMutation } from "./_http/axiosFetcher";
-import CustomButtonLoading from "./_components/CustomLoadingButton";
+import CustomButtonLoading from "./_components/LoadingButton";
 import { useFormik } from "formik";
 import { LoginValidationSchema } from "./_validator/LoginValidation";
 import { setCookie } from "cookies-next";

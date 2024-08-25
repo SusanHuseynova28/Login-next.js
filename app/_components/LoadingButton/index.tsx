@@ -1,7 +1,7 @@
 import React from "react";
 import { TailSpin } from "react-loader-spinner";
 
-const CustomButtonLoading = () => {
+const ButtonLoading = () => {
   return (
     <TailSpin
       visible={true}
@@ -16,4 +16,4 @@ const CustomButtonLoading = () => {
   );
 };
 
-export default CustomButtonLoading;
+export default ButtonLoading;
