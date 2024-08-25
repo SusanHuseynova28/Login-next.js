@@ -1,0 +1,76 @@
+{
+  "tables": [
+    {
+      "id": "1",
+      "name": "Jone",
+      "surname": "Smith",
+      "age": "42",
+      "description": "Product Manager",
+      "total": 9000,
+      "workplace": "InnovateX"
+    },
+    {
+      "id": "2",
+      "name": "Jane",
+      "surname": "Smith",
+      "age": 25,
+      "description": "Product Manager",
+      "total": 9000,
+      "workplace": "InnovateX"
+    },
+    {
+      "id": "3",
+      "name": "Michael",
+      "surname": "Johnson",
+      "age": 40,
+      "description": "CTO",
+      "total": 15000,
+      "workplace": "WebSolutions"
+    },
+    {
+      "id": "4",
+      "name": "Emily",
+      "surname": "Williams",
+      "age": "40",
+      "description": "UX Designer",
+      "total": 8500,
+      "workplace": "Designify"
+    },
+    {
+      "id": "5",
+      "name": "Daniel",
+      "surname": "Brown",
+      "age": 28,
+      "description": "Data Analyst",
+      "total": 9500,
+      "workplace": "DataCorp"
+    },
+    {
+      "id": "6",
+      "name": "Sophia",
+      "surname": "Davis",
+      "age": 32,
+      "description": "Marketing Specialist",
+      "total": 10500,
+      "workplace": "MarketGurus"
+    },
+    {
+      "id": "7",
+      "name": "James",
+      "surname": "Miller",
+      "age": 45,
+      "description": "Sales Manager",
+      "total": 12000,
+      "workplace": "SalesForce"
+    },
+    {
+      "id": "8",
+      "name": "William",
+      "surname": "Miller",
+      "age": 45,
+      "description": "Sales Manager",
+      "total": 12000,
+      "workplace": "SalesForce"
+    }
+  ]
+}
